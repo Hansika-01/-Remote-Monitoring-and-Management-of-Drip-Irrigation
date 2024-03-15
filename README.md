@@ -4,7 +4,7 @@
 <br>
 <br>
 
-> For detailed guides, steps and instructions, check out: [ unreal prpject file]
+> For detailed guides, steps and instructions, check out: [ Documentation ](./Unreal project.pdf)
 
 <br>
 <br>
